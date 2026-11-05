@@ -2,6 +2,10 @@
 
 Android receiver designed for Rokid AI Glasses with a monochrome display, with a Safari remote for iPhone. Version 0.1 is source code, not a hardware-verified release.
 
+## Install using an iPhone
+
+Follow the [iPhone installation and first-use guide](docs/INSTALL_IPHONE.md) to download the APK, check Hi Rokid’s upload option, install on the glasses, and connect the Safari remote. Includes troubleshooting and prototype limitations.
+
 ## Included
 - Fullscreen Media3 player for HTTP(S) media, HLS and DASH (subject to device codecs).
 - Experimental YouTube playback using the official IFrame API and the installed Android WebView.
